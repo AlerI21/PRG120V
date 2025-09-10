@@ -22,4 +22,5 @@ else
     print("Du har ikke svart ja eller nei p&aring; sp&oslash;rsm&aring;let om du er student.")
 }
 
+?>
 
