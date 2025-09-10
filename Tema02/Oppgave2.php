@@ -2,7 +2,7 @@
 
 $svar=$_POST ["svar"];
 
-if(!$svar)
+if(!$svar);
 {
   print("Du har ikke svart p&aring; sp&oslash;rsm&aring;let om du er student.")  
 }
