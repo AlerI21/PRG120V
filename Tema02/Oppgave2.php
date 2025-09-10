@@ -2,17 +2,17 @@
 
 $svar=$_POST ["svar"];
 
-if(!$svar);
+if(!$svar)
 {
   print("Du har ikke svart p&aring; sp&oslash;rsm&aring;let om du er student.");  
 }
 
-else if($svar=="j");
+else if($svar=="j")
 {
    print("Du har svart ja p&aring; sp&oslash;rsm&aring;let om du er student."); 
 }
 
-else if($svar=="n");
+else if($svar=="n")
 {
    print("Du har svart nei p&aring; sp&oslash;rsm&aring;let om du er student.");
 }
