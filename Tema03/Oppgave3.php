@@ -5,7 +5,7 @@ for ($tall=1;$tall<=10;$tall++)
     print("$tall");
 }
 
-print("<br/>")
+print("<br/>");
 
 for ($tall=11;$tall<=20;$tall++)
 {
