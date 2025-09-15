@@ -2,7 +2,7 @@
 
 for ($tall=1;$tall<=10;$tall++)
 {
-    print("$tall");
+    print("$tall <br/>");
 }
 
 ?>
